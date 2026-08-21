@@ -12,17 +12,17 @@
   -Over weight-BMI between 25 and 29.9
   -Obese-BMI 30 or above
 
-##Tech Stack
+## Tech Stack
 - Python 3
 
-##How To Run
+## How To Run
 - clone or download this repo
 - Make sure Python is installed on your system
 - Run the system
 
       python BMI_calculator.py
-##Author
-#Taranum Ashfaq
+## Author
+# Taranum Ashfaq
 - Created as part of a python programming
   learning project.
   
