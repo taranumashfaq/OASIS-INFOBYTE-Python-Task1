@@ -22,7 +22,7 @@
 
       python BMI_calculator.py
 ## Author
-# Taranum Ashfaq
+## Taranum Ashfaq
 - Created as part of a python programming
   learning project.
   
