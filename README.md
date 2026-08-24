@@ -7,10 +7,10 @@
 - Takes user input for weight in (kg) and height in (m)
 - Calculates BMI using the formula:BMI= weight(kg) / height(m)^2
 - Classifies the result into one of the following categories:
--Under weight-BMI between 18.5
--Normal weight-BMI between 18.5 and 24.9
--Over weight-BMI between 25 and 29.9
--Obese-BMI 30 or above
+- Under weight-BMI between 18.5
+- Normal weight-BMI between 18.5 and 24.9
+- Over weight-BMI between 25 and 29.9
+- Obese-BMI 30 or above
 
 ## Tech Stack
 - Python 3
